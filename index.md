@@ -14,7 +14,8 @@ I am publishing this for now!!
 <strong>Skills:</strong><br>
 C++
 JAVA
-HTML
+HTML5
 CSS
 JAVASCRIPT
+Familiarity with BOOTSTRAP 4
 
