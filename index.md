@@ -2,7 +2,7 @@
 <p style="text-align: center;">Arkaprava Wishes you the best!</p>
 <strong>The FIRST but NOT the LAST</strong><br>
 This my first website in my GitHub repository.I have always had a fascination for Computer machines and their complexity of work.
-This Magic world used to be so great and unfathomable when I was kid,just playing around with basic Java Coding, Games and meddling Computer hardware.My love for computers is unbound.
+This Magic world used to be so great and unfathomable when I was kid,just playing around with basic Java Coding, Games and meddling with Computer hardware.My love for computers has always been unbound.
 
 
 <strong>Personal Introduction:</strong><br>
