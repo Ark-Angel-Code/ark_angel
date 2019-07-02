@@ -1,8 +1,8 @@
 ## Welcome to My GitHub Pages
 <p style="text-align: center;">Arkaprava Wishes you the best!</p>
 <strong>The FIRST but NOT the LAST</strong><br>
-This my first website in my GitHub repository.I have always had a love and fascination about Computer machines and their complexity of work.
-This Magic world use to be so great and unfathomable when I was kid,just playing around with basic Java Coding,Games and computer hardware.
+This my first website in my GitHub repository.I have always had a fascination for Computer machines and their complexity of work.
+This Magic world used to be so great and unfathomable when I was kid,just playing around with basic Java Coding, Games and meddling Computer hardware.My love for computers is unbound.
 
 
 <strong>Personal Introduction:</strong><br>
