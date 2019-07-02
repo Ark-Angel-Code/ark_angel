@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 <p style="text-align: center;">Arkaprava Wishes you the best!</p>
-<strong>The FIRST but NOT the LAST<strong/><br>
+<strong>The FIRST but NOT the LAST</strong><br>
 <strong>This my first repository.</strong>I have always had a love and fascination about Computer machines and their complexity of work.
 This Magic world use to be so great and unfathomable when I was kid,just playing around with basic Java Coding,Games and computer hardware.
 
