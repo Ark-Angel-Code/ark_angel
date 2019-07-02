@@ -2,17 +2,17 @@
 
 <!--You can use the [editor on GitHub](https://github.com/Ark-Angel-Code/ark_angel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
-This my first repository.<br>I have always had a love and fascination about Computer machines and their complexity of work.
+<strong>This my first repository.<br>I have always had a love and fascination about Computer machines and their complexity of work.
 This Magic world use to be so great and unfathomable when I was kid,just playing around with basic Java Coding,Games and computer hardware.
 
 
-Personal Introduction:<br>
+<strong>Personal Introduction:<br>
 Well! I have a background in Electronics And Communication Engineering but I have always been a Computer Science guy.I was really shocked to see the reality of how actual web developers code and how something which seemed impossible and magical to me was something so simple.
 Don't misinterpret my remarks please! In no way I am saying that coding is an easy task!! But I had the thought that it would be something more!!<br>
 Now That I am set up on GitHub,I'll keep updating my profile repository by the skills which I have and will acquire!
 
 
-Skills:<br>
+<strong>Skills:<br>
 C++
 JAVA
 HTML
